@@ -1,0 +1,35 @@
+.Tap{
+    text-align: center;
+
+    margin: 20px 150px;
+}
+.Tap-para{
+    color: rgb(50, 148, 228);
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.Tap-logo {
+    height: 5vmin;
+    pointer-events: none;
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .Tap-logo {
+      animation: App-logo-spin infinite 3s linear;
+    }
+  }
+.Tap-section-1{
+    margin: 150px;
+
+}
+.sec2-img{
+  
+  
+}
+.foo-main{
+  text-align: center;
+  color:black;
+  font-size: 25px;
+  margin: 140px 20px; 
+}
